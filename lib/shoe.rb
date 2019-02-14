@@ -2,4 +2,12 @@
 class Shoe
   
   
+  
+  
+  
+  
+  
+  
+  
+  
 end 
